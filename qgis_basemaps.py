@@ -10,6 +10,8 @@ You can add or remove sources from the sources section of the code.
 Script by Klas Karlsson
 Sources from https://qms.nextgis.com/
 
+Cloned by Thiago Silva on 2019-04-04. All credits belong to Klas!
+
 Licence GPL-3
 
 Regarding the terms of use for these background maps YOU will need to verify that you
